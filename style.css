@@ -1,0 +1,9 @@
+.btn{
+    color: #D0B200;
+    background-color: white;
+    font-family: "Poppins", sans-serif;
+    border-color: #D0B200;
+    border: 1px  #D0B200 solid;
+    padding: 10px;
+    border-width: 2px;
+}
